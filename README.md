@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**luckycharm92/luckycharm92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Nalani and I'm originally from the Cayman Islands, but I am currently studying at the University of Leeds</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ I like to play football<br>📚 Watch movies with friends<br>🎯 Read fiction books<br>🎲 Fun fact: I can solve 3 different types of Rubik's cubes</p>
+
+###
