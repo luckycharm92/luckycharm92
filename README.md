@@ -13,7 +13,11 @@
 <p align="left">⚽ I like to play football (Cayman Islands National Footballer)<br>🎥 Watch movies with friends<br>🌍 Learn German<br>🎲 Fun fact: I can solve 3 different types of Rubik's cubes</p>
 
 ###
+
+
 ![snake gif](https://github.com/luckycharm92/luckycharm92/blob/output/github-snake-dark.svg)
+
+
 ###
 
 
